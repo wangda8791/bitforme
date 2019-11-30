@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+.conf
+jsons/test.json
+jsons/currencies.json
+daemons/run.sh
+daemons/rb.go
+daemons/btc.go
+daemons/test.go
+daemons/send_amqp_data.go
+daemons/xlm.go
+daemons/xlm_receive.go
+daemons/bn_deposit_1.go
+log
+.history

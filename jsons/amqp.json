@@ -1,0 +1,35 @@
+{
+    "deposit_coin": {
+        "name": "bn.deposit.coin",
+        "durable": true,
+        "binding": {
+            "exchange": ""
+        },
+        "exchange": {   
+            "name": "",
+            "type": ""
+        }
+    },
+    "deposit": {
+        "name": "bn.deposit",
+        "durable": true,
+        "binding": {
+            "exchange": ""
+        },
+        "exchange": {   
+            "name": "",
+            "type": ""
+        }
+    },
+    "withdraw": {
+        "name": "bn.withdraw",
+        "durable": true,
+        "binding": {
+            "exchange": ""
+        },
+        "exchange": {   
+            "name": "",
+            "type": ""
+        }
+    }
+}
